@@ -1,3 +1,11 @@
-# My Awesome Book
+# infoq迷你书阅读笔记
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+按以下顺序：
+
+* 架构
+* 大数据
+* dev-ops
+* ai
+
+
+
