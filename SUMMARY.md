@@ -9,9 +9,7 @@
   * [架构师特刊](jia-gou/jia-gou-shi-te-kan.md)
     * [Hadoop十年回顾](jia-gou/jia-gou-shi-te-kan/hadoopshi-nian-hui-gu.md)
 * [云计算](yun-ji-suan.md)
-  * 云生态专刊
-* AI
+  * [云生态专刊](yun-ji-suan/yun-sheng-tai-zhuan-kan.md)
+* [AI](ai.md)
   * AI前线
-
-
 
