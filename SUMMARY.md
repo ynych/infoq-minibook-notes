@@ -8,7 +8,8 @@
       * [201911](jia-gou/jia-gou-shi-yue-kan/2019/201911.md)
       * [201910](jia-gou/jia-gou-shi-yue-kan/2019/201910.md)
       * [201909](jia-gou/jia-gou-shi-yue-kan/2019/201909.md)
-      * 201908
+      * [201908](jia-gou/jia-gou-shi-yue-kan/2019/201908.md)
+      * 201907
   * [架构师特刊](jia-gou/jia-gou-shi-te-kan.md)
     * [Hadoop十年回顾](jia-gou/jia-gou-shi-te-kan/hadoopshi-nian-hui-gu.md)
 * [云计算](yun-ji-suan.md)
