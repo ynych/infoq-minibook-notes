@@ -11,7 +11,7 @@
       * [201908](jia-gou/jia-gou-shi-yue-kan/2019/201908.md)
       * [201907](jia-gou/jia-gou-shi-yue-kan/2019/201907.md)
       * [201906](jia-gou/jia-gou-shi-yue-kan/2019/201906.md)
-      * 201905
+      * [201905](jia-gou/jia-gou-shi-yue-kan/2019/201905.md)
   * [架构师特刊](jia-gou/jia-gou-shi-te-kan.md)
     * [Hadoop十年回顾](jia-gou/jia-gou-shi-te-kan/hadoopshi-nian-hui-gu.md)
 * [云计算](yun-ji-suan.md)
@@ -19,6 +19,4 @@
 * [AI](ai.md)
   * [AI前线](ai/aiqian-xian.md)
     * [201910](ai/aiqian-xian/201910.md)
-
-
 
